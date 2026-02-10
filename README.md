@@ -21,4 +21,5 @@ The goal is to identify high-risk customer segments and recommend retention acti
 
 ## 📂 Files
 - `Telco-Customer-Churn.twb` – Tableau packaged workbook  
-- `Telco-Customer-Churn.csv` – Dataset  
+- `Telco-Customer-Churn.csv` – Dataset
+- `Screenshots` – Dashboard and graphs preview  
