@@ -26,3 +26,9 @@ The goal is to identify high-risk customer segments and recommend retention acti
 
 ## 🌐 Link to Dataset
 https://www.kaggle.com/datasets/ayberkural/telco-customer-churn
+
+## 👤 Author
+
+Raz Ben-Yehuda
+B.Sc. Industrial Engineering & Management
+Specialization in Information Systems & Business Analytics
